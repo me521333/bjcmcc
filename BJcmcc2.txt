@@ -2,6 +2,7 @@
 CCTV-1综合,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-2财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-3综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-3综艺,http://121.232.178.68:60001/tsfile/live/0003_1.m3u8
 CCTV-3综艺,http://tvbox6.icu/tv/migu.php?id=cctv3
 CCTV-3综艺,http://tvbox6.icu/tv/migu.php?id=cctv3
 CCTV-3综艺,http://1.24.39.180:9003/hls/3/index.m3u8
