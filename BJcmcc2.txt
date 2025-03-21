@@ -4,11 +4,7 @@ CCTV-2财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8
 CCTV-3综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-3综艺,http://121.232.178.68:60001/tsfile/live/0003_1.m3u8
 CCTV-3综艺,http://tvbox6.icu/tv/migu.php?id=cctv3
-CCTV-3综艺,http://tvbox6.icu/tv/migu.php?id=cctv3
 CCTV-3综艺,http://1.24.39.180:9003/hls/3/index.m3u8
-CCTV-3综艺,http://39.170.52.236:808/hls/3/index.m3u8
-CCTV-3综艺,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
-CCTV-3综艺,http://219.135.180.210:18888/hls/3/index.m3u8
 CCTV-3综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 CCTV-4中文国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-5体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
